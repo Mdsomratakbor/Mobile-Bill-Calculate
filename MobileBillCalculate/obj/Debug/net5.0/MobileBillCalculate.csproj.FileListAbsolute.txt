@@ -1,0 +1,16 @@
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.exe
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.deps.json
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.runtimeconfig.json
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.runtimeconfig.dev.json
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.dll
+E:\Interview\MobileBillCalculate\MobileBillCalculate\bin\Debug\net5.0\MobileBillCalculate.pdb
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.csproj.AssemblyReference.cache
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.AssemblyInfoInputs.cache
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.AssemblyInfo.cs
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.csproj.CoreCompileInputs.cache
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.dll
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\refint\MobileBillCalculate.dll
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.pdb
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\MobileBillCalculate.genruntimeconfig.cache
+E:\Interview\MobileBillCalculate\MobileBillCalculate\obj\Debug\net5.0\ref\MobileBillCalculate.dll
